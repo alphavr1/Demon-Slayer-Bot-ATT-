@@ -17,3 +17,5 @@ No Misrepresentation: You may not claim this software as your own or misrepresen
 Modifications Allowed: You may modify this software, but the above conditions still apply to any derivative works.
 
 Include License: This license must be included with any redistribution or public sharing of the software or its derivatives.
+
+This software may be freely used for educational or personal development purposes.
